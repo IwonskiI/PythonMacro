@@ -9,5 +9,5 @@ PW : 1234ASDF!
 ID : ID2EXAMPLE
 PW : PW2EXAMPLE
 ========================================
-ID : ricky2101
-PW : Kky30301hws!
+ID : 
+PW : 
